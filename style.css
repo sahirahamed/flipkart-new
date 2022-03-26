@@ -269,14 +269,14 @@ left:960px;
 font-weight: bolder;
 }
 .summer-offers{
-height:300px;
+height:290px;
 width:80%;
 background-color: white;
 box-shadow: 2px 2px 2px 2px grey;
 display: flex;
 flex-direction: row;
 position: relative;
-
+line-height: 1.8em;
 
 }
 .offer-products{
@@ -286,7 +286,7 @@ flex-direction: column;
 align-items: center;
 justify-content: flex-start;
 margin-top: 20px;
-height: 270px;
+height: 260px;
 width:250px;
 line-height: 1.8em;
 background-color: white;
@@ -400,19 +400,19 @@ transition: all 1s liner;
 .furniture{
 
 
-height:300px;
+height:290px;
 width:100%;
 display: flex;
 flex-direction: row;
 background-color: white;
 box-shadow: 2px 2px 2px 2px grey;
-
+line-height: 1.8em;
 }
 .center{
 
 display: flex;
 flex-direction: column;
-height:300px;
+height:290px;
 width:200px;
 justify-content: flex-start;
 align-items: center;

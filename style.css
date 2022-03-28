@@ -323,7 +323,7 @@ flex-direction: column;
 
 display: flex;
 flex-direction: column;
-height: 350px;
+height: 340px;
 width:240px;
 box-shadow: 2px 2px 2px 2px grey;
 background-image: url(project-images/footwear-bg.jpg);
@@ -764,7 +764,7 @@ margin-left: 30px;
 margin-top: 40px;
     height: 300px;
     width: 100%;
-    background-color: #222222;
+    background-color: #172337;
     display: flex;
     flex-direction: row;
     
@@ -836,7 +836,7 @@ margin-top: 40px;
     
     }
     .footer{
-    background-color: #222222;
+    background-color:#172337;
     height: 100px;
     width: 100%;
     border-top:1px solid white ;
@@ -866,7 +866,20 @@ margin-top: 40px;
     width: 40px;
     
     }
-    
+    .furnitures{
+
+height:320px;
+width:100%;
+display: flex;
+flex-direction: row;
+background-color: white;
+box-shadow: 2px 2px 2px 2px grey;
+line-height: 1.8em;
+
+
+
+
+    }
     .center-fill{
         display: flex;
         flex-direction: column;

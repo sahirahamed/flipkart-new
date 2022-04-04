@@ -2183,7 +2183,7 @@ width:100vw;
         }
         .footer{
             background-color:#172337;
-            height: 300px;
+            height: 350px;
             width: 100vw;
             border-top:1px solid white ;
             color: white;
@@ -2195,7 +2195,7 @@ height: 10px;
 width:10px;
             }
             .cards{
-
+width:100vw;
                 margin-top: 20px;
             }
             .yellow-pic{

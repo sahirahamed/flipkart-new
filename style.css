@@ -29,7 +29,7 @@ flex-direction: column;
     flex-direction: row;
     position: fixed;
     top:0px;
-    z-index: 2;
+    z-index: 4;
     font-family: 'Roboto',Arial,sans-serif;
 
 }
@@ -279,7 +279,7 @@ justify-content: center;
 align-items: center;
 font-size: 14px;
 position:absolute;
-left:960px;
+left:70vw;
 font-weight: bolder;
 }
 .summer-offers{
@@ -498,7 +498,7 @@ margin-top: 5px;
     align-items: center;
     font-size: 14px;
     position:absolute;
-    left:1235px;
+    left:90vw;
     font-weight: bolder;
 
 
@@ -1447,7 +1447,7 @@ align-items: center;
         align-items: center;
         font-size: 12px;
         position:absolute;
-        left:240px;
+        left:85vw;
         font-weight: bolder;
         }
         .summer-offers{
@@ -1905,7 +1905,7 @@ width:100vw;
         align-items: center;
         font-size: 12px;
         position:absolute;
-        left:230px;
+        left:85vw;
         font-weight: bolder;
     
         
@@ -2163,7 +2163,7 @@ width:100vw;
     }
     .black-div{
         height:1400px;
-margin-top: 1700px;
+margin-top: 170px;
 flex-direction: column;
 width:100vw;
 

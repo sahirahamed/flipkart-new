@@ -451,12 +451,25 @@ background-color: white;
 
     height: 70px;
     width:100%;
-    box-shadow: 2px 2px 2px 2px grey;
+    
     font-weight: bolder;
     display: flex;
     flex-direction: column;
     justify-content: center;
     background-color: white;
+    }
+    .furniture-headerss{
+
+        
+    height:70px;
+    width:100%;
+    position: relative;
+    
+font-weight: bolder;
+display: flex;
+flex-direction: column;
+justify-content: center;
+background-color: white
     }
 .best-seller{
 

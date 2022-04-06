@@ -9,8 +9,8 @@ font-family:'Roboto',Arial,sans-serif;
 }
 .parent{
 
-height:100vh;
-width:100vw;
+height:100%;
+width:100%;
 background-color:rgb(252, 247, 247);
 
 }
@@ -23,7 +23,7 @@ flex-direction: column;
 .header{
 
     height: 55px;
-    width:98vw;
+    width:100%;
     background-color:#2874F0;
     display: flex;
     flex-direction: row;
@@ -204,13 +204,12 @@ margin-right: 200px;
 .lap-wallpaper{
 margin-top: 10px;
 height:280px;
-width:98%;
+width:100%;
 background-color: white;
 display: flex;
 flex-direction: row;
 justify-content: center;
-margin-left: 10px;
-margin-right: 10px;
+
 z-index: 2;
 }
 
@@ -346,9 +345,9 @@ background-size: cover;
 background-position: center;
 background-color: rgb(255, 0, 106);
 position: absolute;
-left:1110px;
+left:1080px;
 border:5px solid white;
-
+/* top:400px; */
 
 }
 .footwear-topic{
@@ -782,8 +781,8 @@ color: #878787;
 
 }
 .para{
-    height:1670px;
-    width:100%;
+    height:1700px;
+    width:97%;
     color: #878787;
 font-size: 11px;
 display: flex;
@@ -1062,7 +1061,7 @@ align-items: center;
 flex-direction: column;
 height:600px;
 width:100vw;
-margin-top: 120px;
+margin-top: 20px;
 background-color: white;
 
 }
@@ -1073,7 +1072,7 @@ background-color: white;
 
 .header{
 flex-direction: column;
-width:100vw;
+width:100%;
 height:200px;
 justify-content: center;
 align-items: flex-start;

@@ -1113,7 +1113,7 @@ align-items: flex-start;
     }
     .search-icon{
     
-    margin-left: 120px;
+    margin-left: 140px;
     top:10px;
     height:18px;
     width:20px;
@@ -1799,7 +1799,7 @@ font-size: 20px;
     .search-box{
     
         height: 24px;
-        width:310px;
+        width:370px;
         background-color: #FFFFFF;
         margin-top: 10px;
         margin-left: 10px;
@@ -1828,7 +1828,7 @@ font-size: 20px;
         }
         .search-icon{
         
-        margin-left: 120px;
+        margin-left: 190px;
         top:10px;
         height:18px;
         width:20px;
@@ -2196,6 +2196,10 @@ width:10px;
             .cards{
 width:100vw;
                 margin-top: 20px;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
             }
             .yellow-pic{
 margin-top: 15px;
